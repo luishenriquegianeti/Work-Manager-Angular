@@ -11,7 +11,13 @@
 </p>
 
 ---
+## 🙏 Agradecimentos
 
+Dedico este projeto aos meus amigos, professores e familiares que me ajudaram e apoiaram na realização deste trabalho.
+
+Agradeço a Deus por ter colocado essas pessoas no meu caminho, sempre me guiando e ajudando nos meus passos futuros. Também sou grato pela saúde, bênçãos e proteção concedidas ao longo dessa jornada.
+
+---
 ## 📌 Sobre o Projeto
 O **WorkManager** é uma aplicação front-end desenvolvida em **Angular**, utilizando **JSON Server** para simulação de API durante o desenvolvimento.
 
