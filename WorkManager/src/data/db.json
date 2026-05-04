@@ -93,5 +93,6 @@
       "fim": "2025-02-20",
       "ramo": "limpesa"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
